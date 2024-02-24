@@ -28,6 +28,15 @@ Training data is the data used to train the machine learning model
 Validation data is used to fine tune the model during the model training phase
 
 Testing data is used to test the final version of the model
+# Model Building
+
+<img width="1033" alt="Screenshot 2024-02-24 at 5 12 53 PM" src="https://github.com/mori6mori/Google_3_AI_Studio/assets/130521272/9ece2dc2-6334-47d0-8efb-7c3c5ce0a241">
+
+<img width="983" alt="Screenshot 2024-02-24 at 5 13 48 PM" src="https://github.com/mori6mori/Google_3_AI_Studio/assets/130521272/da5d1495-c8e9-4add-88e9-17ea0d8c99b3">
+
+
+<img width="833" alt="Screenshot 2024-02-24 at 5 13 28 PM" src="https://github.com/mori6mori/Google_3_AI_Studio/assets/130521272/a706030f-5261-4cdb-9857-a3dcd4258859">
+
 
 # Hyperparameter
 
